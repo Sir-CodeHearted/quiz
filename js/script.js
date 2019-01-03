@@ -17,21 +17,21 @@ $(document).ready(function() {
 function question1(q1Result) {
     var points; 
     points= q1Result.length();
-    return  points
+    return  points 
 }
 function question2(q2Result) {
     var points; 
-    points= q2Result
+    points= q2Result.length();
     return  points
 }
 function question3(q3Result) {
     var points; 
-    points= q3Result
+    points= q3Result.length();
     return  points
 }
 function question4(q4Result) {
     var points; 
-    points= q4Result
+    points= q4Result.length();
     return  points
 }
 
